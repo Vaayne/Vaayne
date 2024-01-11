@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@liuvaayne" target="blank"><img src="https://img.shields.io/twitter/follow/@liuvaayne?logo=twitter&style=for-the-badge" alt="@liuvaayne" /></a> </p>
 
-- 🔭 I’m currently working on [NotionBoy](https://github.com/Vaayne/NotionBoy)
-
-- 👯 I’m looking to collaborate on [gateway](https://github.com/envoyproxy/gateway)
+- 🔭 I’m currently working on [NotionAI-Plus](https://github.com/vaayne/NotionAI-Plus)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vaayne/](https://github.com/Vaayne/)
 
